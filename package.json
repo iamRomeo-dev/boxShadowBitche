@@ -1,0 +1,19 @@
+{
+  "name": "boxshadowbitche",
+  "version": "1.0.0",
+  "description": "",
+  "main": "boxShadowBitche.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamRomeo-dev/boxShadowBitche.git"
+  },
+  "author": "Roméo B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamRomeo-dev/boxShadowBitche/issues"
+  },
+  "homepage": "https://github.com/iamRomeo-dev/boxShadowBitche#readme"
+}
